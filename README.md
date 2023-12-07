@@ -1,8 +1,8 @@
 # Comp371AoC1
 
 # Compile files from top level directory
-javac src/Part1\
-javac src/Part2
+javac src/Part1.java\
+javac src/Part2.java
 
 # Move to src directory and Run files 
 cd /src \
